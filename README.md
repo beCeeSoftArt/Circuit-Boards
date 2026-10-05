@@ -12,6 +12,14 @@ For connecting several I2C devices are there 6x SDA an 6x SCL pin outs available
 
 Same like NanoBasic.fzz, but with 6 additional pin outs for using analog pins from Arduino Nano board.
 
+## NanoBasic3.fzz 
+
+Same like NanoBasic2.fzz, but with fixed power pins for using also Nano Esp32.
+
+## NanoAndNanoESP32_1.fzz 
+
+Same like NanoBasic3.fzz, but with extension for second nano or Nano Esp32 connected via serial to extension.
+
 ## PowerSupply5V_V2.1.fzz
 
 Is a circuit board to scale up to 8 parallel power regulators with fixed voltage output, depending on your need. 
